@@ -1,2 +1,3 @@
-# Arrhythmia-Detection
-Ensemble Approach
+# Deep Learning: Piecewise attaention models
+
+dataset: Diabetic retinopathy
